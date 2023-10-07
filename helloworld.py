@@ -1,0 +1,5 @@
+[200~import pyfiglet
+    
+  result = pyfiglet.figlet_format("Happy Birthday to You ", font = "slant"  )
+
+  print(result)
